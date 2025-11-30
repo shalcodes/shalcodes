@@ -1,7 +1,7 @@
 <!-- ================= HEADER / BANNER ================ -->
 
 <p align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/main/Banner.png" width="100%" alt="Banner"/>
+  <img src="https://github.com/shalcodes/shalcodes/blob/main/banner.png" width="100%" alt="Banner"/>
 </p>
 
 <p align="left">
