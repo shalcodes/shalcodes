@@ -71,7 +71,6 @@ I work on problems such as:
 *Computational Biology and Chemistry, 2024*  
 *S. Majumder*, E. Lodh, T. Chowdhury
 
-
 ---
 
 ### **2025**
@@ -87,6 +86,24 @@ E. Lodh, *S. Majumder*, T. Chowdhury
 <b>GeneDeepNet: A Differential Expression and Deep Learning Based Novel Framework for Detecting Invasive Breast Cancer Subtypes</b>  
 *(ICMLDE 2025 – Procedia Computer Science, Accepted, In Press, Presenter)*  
 E. Lodh, *S. Majumder*, T. De, T. Chowdhury, M. De 
+
+---
+
+### **2026**
+
+[<img src="https://img.shields.io/badge/Springer-Article-blue?style=flat-square&logo=Springer&logoColor=white"/>](https://doi.org/10.1007/s13721-026-00755-x)
+
+**A Stacked Ensemble Meta-Classifier Framework for PAM50 Breast Cancer Subtype Prediction from Gene Expression Signatures**   
+*Network Modeling Analysis in Health Informatics and Bioinformatics, 2026*  
+E. Lodh, T. Chowdhury, A. Shaw, D. Bedajna, S. Bera, **S. Majumder**, and M. De  
+**DOI:** [10.1007/s13721-026-00755-x](https://doi.org/10.1007/s13721-026-00755-x)
+
+[<img src="https://img.shields.io/badge/Elsevier-Article-orange?style=flat-square&logo=Elsevier&logoColor=white"/>](https://doi.org/10.1016/j.jmgm.2026.109282)
+
+**RLBindDeep: A ResNet-LSTM based novel framework for protein–ligand binding affinity prediction**   
+*Journal of Molecular Graphics and Modelling, 2026*  
+E. Lodh, **S. Majumder**, T. Chowdhury, M. De  
+**DOI:** [10.1016/j.jmgm.2026.109282](https://doi.org/10.1016/j.jmgm.2026.109282)
 
 ---
 
