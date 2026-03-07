@@ -84,7 +84,7 @@ E. Lodh, *S. Majumder*, T. Chowdhury
 <img src="https://img.shields.io/badge/Elsevier-Procedia-red?style=flat-square"/>  
 
 <b>GeneDeepNet: A Differential Expression and Deep Learning Based Novel Framework for Detecting Invasive Breast Cancer Subtypes</b>  
-*(ICMLDE 2025 – Procedia Computer Science, Accepted, In Press, Presenter)*  
+*(ICMLDE 2025 – Procedia Computer Science, Accepted, In Press)*  
 E. Lodh, *S. Majumder*, T. De, T. Chowdhury, M. De 
 
 ---
