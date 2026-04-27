@@ -90,6 +90,22 @@ E. Lodh, *S. Majumder*, T. De, T. Chowdhury, M. De
 ---
 
 ### **2026**
+[<img src="https://img.shields.io/badge/Springer-Article-blue?style=flat-square&logo=Springer&logoColor=white"/>](https://doi.org/10.1007/s00438-026-02423-1)
+
+**In silico Characterization of Melanoma-derived Mouse lncRNA Gm26982 and Comparative Analyses with Human Ortholog**  
+*Molecular Genetics and Genomics, 2026*  
+**S. Majumder**, E. Lodh, T. De, and T. Chowdhury  
+**DOI:** [10.1007/s00438-026-02423-1](https://doi.org/10.1007/s00438-026-02423-1)
+
+
+[<img src="https://img.shields.io/badge/Wiley-Article-green?style=flat-square&logo=Wiley&logoColor=white"/>](https://doi.org/10.1111/coin.70232)
+
+**BioAlignNet: A GPU-Accelerated Framework for Efficient Global Sequence Alignment Across Genomics and Proteomics Scales**  
+*Computational Intelligence, 2026*  
+E. Lodh, T. Chowdhury, and **S. Majumder**  
+**DOI:** [10.1111/coin.70232](https://doi.org/10.1111/coin.70232)
+
+
 
 [<img src="https://img.shields.io/badge/Springer-Article-blue?style=flat-square&logo=Springer&logoColor=white"/>](https://doi.org/10.1007/s13721-026-00755-x)
 
